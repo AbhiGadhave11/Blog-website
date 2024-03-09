@@ -58,7 +58,3 @@ function TextEditor({onChange}: {onChange: (e: ChangeEvent<HTMLTextAreaElement>)
     </div>
 
 }
-
-function publishPostHandler() {
-    axios.post
-}
